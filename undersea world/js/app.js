@@ -6,3 +6,4 @@ ScrollSmoother.create({
     wrapper: '.wrapper',
     content: '.content'
 })
+//this is the end of the file
